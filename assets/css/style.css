@@ -12,6 +12,7 @@
 body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
+  position: fixed;
 }
 
 a {
@@ -423,6 +424,7 @@ h6 {
   height: 100vh;
   background: url("../img/Untitled design (2).png") top right;
   background-size: cover;
+  position: fixed;
 }
 
 #hero .container {
