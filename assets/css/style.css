@@ -440,6 +440,15 @@ h6 {
   }
 }
 
+#hero img {
+  position: fixed;
+  right: 32px;
+  bottom: -133px;
+  z-index: 996;
+  height: 140px;
+  width: auto;
+}
+
 #hero h1 {
   font-family: "Keilla", Keilla;
   margin: 0;
